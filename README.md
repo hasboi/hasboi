@@ -1,8 +1,10 @@
-# Hi!👋 I am smolh
+# 👋 Hi! I am smolh
 
-interested in python coding and web designing
+😎 interested in python coding and web designing
 
-based in indonesia
+🇮🇩 based in indonesia
+
+😼 car
 
 <!---
 smolh/smolh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
