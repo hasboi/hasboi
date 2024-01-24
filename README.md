@@ -1,7 +1,8 @@
-- 👋 Hi, I'm smolh
-- i love to code, design, and write!
-- based in indonesia
-- car
+# Hi!👋 I am smolh
+
+interested in python coding and web designing
+
+based in indonesia
 
 <!---
 smolh/smolh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
