@@ -1,4 +1,4 @@
-# hey, i'm hasb0i
+# 👋 hey, i'm hasb0i, or hasbi in real life
 
 just a student who's really into software engineering stuff (but not professional, yet). going to uni this year, so that's fun.
 
