@@ -1,9 +1,5 @@
-# 👋 hey, i'm hasb0i, or hasbi in real life
+# hey friends!
 
-just a student who's really into software engineering stuff (but not professional, yet). going to uni this year, so that's fun.
+you might know me from a silly website i made on [hasboi.github.io/tomatonator](hasboi.github.io/tomatonator). well that was a long time ago!
 
-most of my projects are just me building whatever random thing pops into my head. sometimes useful, sometimes completely ridiculous, but, it's all part of the process, right? i code, i break things, i fix them (sometimes), and i learn.
-
-also, i write stuff. here is my blog:
-[https://hasboi.netlify.app/](https://hasboi.netlify.app/)
-it’s in indonesian tho, except for the landing page because umm, for the sake of coolness.
+this github profile isn't active anymore, so..., i made another one: [@bisquich](https://github.com/bisquich). i might make some more silly stuff in the profile.
